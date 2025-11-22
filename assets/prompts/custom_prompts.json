@@ -1,0 +1,18 @@
+{
+  "categorization": {
+    "name": "Custom Categorization",
+    "description": "Custom prompt for experimentation",
+    "prompt": "hlo",
+    "version": "2025-11-22T17:41:28.480777",
+    "is_active": true,
+    "is_custom": true
+  },
+  "categorization_custom_test": {
+    "name": "Custom Prompt",
+    "description": "",
+    "prompt": "Test prompt with {tone} and {email_content}",
+    "version": "2025-11-22T18:02:34.690467",
+    "is_active": true,
+    "is_custom": true
+  }
+}

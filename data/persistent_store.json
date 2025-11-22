@@ -1,0 +1,583 @@
+{
+  "emails": [
+    {
+      "id": 1,
+      "sender": "project.manager@company.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "Urgent: Q4 Project Deadline Update",
+      "body": "Hi team,\n\nWe need to move the Q4 project deadline forward by one week to December 15th. Please review your tasks and let me know if this creates any conflicts.\n\nKey deliverables:\n- Finalize UI design by Dec 10th\n- Complete backend integration by Dec 12th\n- Testing and deployment by Dec 15th\n\nPlease confirm your availability for a quick sync meeting tomorrow at 10 AM.\n\nBest regards,\nSarah Johnson\nProject Manager",
+      "date": "2024-11-22T09:30:00",
+      "message_id": "msg_001",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 2,
+      "sender": "newsletter@technews.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "Weekly Tech Digest: AI Breakthroughs & More",
+      "body": "Hello Subscriber,\n\nThis week in tech:\n- New AI model achieves 95% accuracy in medical diagnostics\n- Quantum computing milestone reached\n- Upcoming developer conferences\n\nRead more: https://technews.com/latest\n\nTo unsubscribe, click here: https://technews.com/unsubscribe\n\nBest,\nTechNews Team",
+      "date": "2024-11-22T08:15:00",
+      "message_id": "msg_002",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 3,
+      "sender": "john.doe@clientcorp.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "Meeting Request: Project Discussion",
+      "body": "Hello,\n\nI'd like to schedule a meeting to discuss the upcoming project requirements. Are you available sometime next week?\n\nI'm thinking we could cover:\n- Project scope and timeline\n- Technical requirements\n- Resource allocation\n\nPlease let me know what times work for you.\n\nThanks,\nJohn Doe",
+      "date": "2024-11-21T14:20:00",
+      "message_id": "msg_003",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 4,
+      "sender": "security@yourbank.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "Action Required: Verify Your Account",
+      "body": "URGENT SECURITY ALERT\n\nWe detected unusual activity on your account. Please verify your identity immediately by clicking the link below:\n\nhttp://fake-bank-security.com/verify\n\nFailure to verify within 24 hours will result in account suspension.\n\nSincerely,\nSecurity Team",
+      "date": "2024-11-21T11:45:00",
+      "message_id": "msg_004",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 5,
+      "sender": "hr@company.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "Performance Review Schedule",
+      "body": "Hello,\n\nThis is to inform you that Q4 performance reviews are scheduled for next week. Please:\n1. Complete the self-assessment form by Friday\n2. Submit your achievements document\n3. Schedule a 30-minute meeting with your manager\n\nThe forms are available at: http://company-hrportal.com/forms\n\nLet me know if you have any questions.\n\nRegards,\nHR Department",
+      "date": "2024-11-21T10:00:00",
+      "message_id": "msg_005",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 6,
+      "sender": "marketing@ecommerce.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "Black Friday Sale - 50% OFF Everything!",
+      "body": "Don't miss our biggest sale of the year!\n\nBLACK FRIDAY SPECIAL:\n- 50% off all products\n- Free shipping on orders over $50\n- Limited time offer\n\nShop now: https://ecommerce.com/blackfriday\n\nThis offer expires on November 25th.\n\nHappy Shopping!\nThe Marketing Team",
+      "date": "2024-11-20T16:30:00",
+      "message_id": "msg_006",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 7,
+      "sender": "tech.support@company.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "System Maintenance Tonight 10 PM - 2 AM",
+      "body": "Important Notice:\n\nScheduled system maintenance will occur tonight from 10:00 PM to 2:00 AM. During this time, the following services will be unavailable:\n- Internal file sharing\n- Project management portal\n- Email server (brief interruptions)\n\nPlease save your work and log out before 10:00 PM.\n\nWe apologize for any inconvenience.\n\nIT Support Team",
+      "date": "2024-11-20T15:00:00",
+      "message_id": "msg_007",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 8,
+      "sender": "ceo@company.com",
+      "recipient": "all@company.com",
+      "subject": "Company All-Hands Meeting Next Monday",
+      "body": "Team,\n\nI'm excited to announce our quarterly all-hands meeting next Monday at 3:00 PM in the main conference room.\n\nAgenda:\n- Q3 results and Q4 outlook\n- New product announcements\n- Team recognition awards\n- Q&A session\n\nPlease make every effort to attend. The meeting will also be streamed for remote team members.\n\nLet's make Q4 our best quarter yet!\n\nBest,\nJane Smith\nCEO",
+      "date": "2024-11-20T13:15:00",
+      "message_id": "msg_008",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 9,
+      "sender": "noreply@socialmedia.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "You have 5 new connection requests",
+      "body": "Hi there,\n\nYou have 5 new connection requests waiting:\n- John Smith (Tech Industry)\n- Maria Garcia (Marketing)\n- David Chen (Developer)\n- Sarah Wilson (Design)\n- Mike Brown (Product)\n\nLogin to view and manage your connections: https://socialmedia.com/connections\n\nThis is an automated message. Please do not reply.",
+      "date": "2024-11-20T11:30:00",
+      "message_id": "msg_009",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 10,
+      "sender": "client.service@bigclient.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "URGENT: Production Issue Detected",
+      "body": "CRITICAL ISSUE:\n\nOur monitoring system has detected a production issue affecting user authentication. The error rate has spiked to 15% in the last hour.\n\nRequired actions:\n1. Investigate the authentication service immediately\n2. Deploy hotfix if needed\n3. Provide status update within 2 hours\n4. Prepare incident report\n\nThis is priority 1. Please acknowledge receipt and provide ETA for resolution.\n\nClient Services Team",
+      "date": "2024-11-20T09:45:00",
+      "message_id": "msg_010",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 11,
+      "sender": "training@devskills.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "New Course: Advanced Python Programming",
+      "body": "Hello Developer,\n\nWe're excited to announce our new Advanced Python Programming course!\n\nWhat you'll learn:\n- Advanced Python patterns\n- Performance optimization\n- Async programming\n- Testing strategies\n\nCourse starts: December 1st\nDuration: 6 weeks\nPrice: $299 (early bird discount available)\n\nEnroll now: https://devskills.com/python-advanced\n\nBest regards,\nDevSkills Team",
+      "date": "2024-11-19T17:20:00",
+      "message_id": "msg_011",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 12,
+      "sender": "colleague@company.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "Quick question about the API documentation",
+      "body": "Hey,\n\nI'm working on integrating with the new API and had a quick question about the authentication section. Could you clarify the token refresh process?\n\nSpecifically:\n- What's the exact refresh endpoint?\n- Should we use the same headers?\n- Any specific error handling needed?\n\nThanks for your help!\n\nCheers,\nAlex",
+      "date": "2024-11-19T15:40:00",
+      "message_id": "msg_012",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 13,
+      "sender": "project.manager@company.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "Urgent: Q4 Project Deadline Update",
+      "body": "Hi team,\n\nWe need to move the Q4 project deadline forward by one week to December 15th. Please review your tasks and let me know if this creates any conflicts.\n\nKey deliverables:\n- Finalize UI design by Dec 10th\n- Complete backend integration by Dec 12th\n- Testing and deployment by Dec 15th\n\nPlease confirm your availability for a quick sync meeting tomorrow at 10 AM.\n\nBest regards,\nSarah Johnson\nProject Manager",
+      "date": "2024-11-22T09:30:00",
+      "message_id": "msg_001",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 14,
+      "sender": "newsletter@technews.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "Weekly Tech Digest: AI Breakthroughs & More",
+      "body": "Hello Subscriber,\n\nThis week in tech:\n- New AI model achieves 95% accuracy in medical diagnostics\n- Quantum computing milestone reached\n- Upcoming developer conferences\n\nRead more: https://technews.com/latest\n\nTo unsubscribe, click here: https://technews.com/unsubscribe\n\nBest,\nTechNews Team",
+      "date": "2024-11-22T08:15:00",
+      "message_id": "msg_002",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 15,
+      "sender": "john.doe@clientcorp.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "Meeting Request: Project Discussion",
+      "body": "Hello,\n\nI'd like to schedule a meeting to discuss the upcoming project requirements. Are you available sometime next week?\n\nI'm thinking we could cover:\n- Project scope and timeline\n- Technical requirements\n- Resource allocation\n\nPlease let me know what times work for you.\n\nThanks,\nJohn Doe",
+      "date": "2024-11-21T14:20:00",
+      "message_id": "msg_003",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 16,
+      "sender": "security@yourbank.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "Action Required: Verify Your Account",
+      "body": "URGENT SECURITY ALERT\n\nWe detected unusual activity on your account. Please verify your identity immediately by clicking the link below:\n\nhttp://fake-bank-security.com/verify\n\nFailure to verify within 24 hours will result in account suspension.\n\nSincerely,\nSecurity Team",
+      "date": "2024-11-21T11:45:00",
+      "message_id": "msg_004",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 17,
+      "sender": "hr@company.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "Performance Review Schedule",
+      "body": "Hello,\n\nThis is to inform you that Q4 performance reviews are scheduled for next week. Please:\n1. Complete the self-assessment form by Friday\n2. Submit your achievements document\n3. Schedule a 30-minute meeting with your manager\n\nThe forms are available at: http://company-hrportal.com/forms\n\nLet me know if you have any questions.\n\nRegards,\nHR Department",
+      "date": "2024-11-21T10:00:00",
+      "message_id": "msg_005",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 18,
+      "sender": "marketing@ecommerce.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "Black Friday Sale - 50% OFF Everything!",
+      "body": "Don't miss our biggest sale of the year!\n\nBLACK FRIDAY SPECIAL:\n- 50% off all products\n- Free shipping on orders over $50\n- Limited time offer\n\nShop now: https://ecommerce.com/blackfriday\n\nThis offer expires on November 25th.\n\nHappy Shopping!\nThe Marketing Team",
+      "date": "2024-11-20T16:30:00",
+      "message_id": "msg_006",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 19,
+      "sender": "tech.support@company.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "System Maintenance Tonight 10 PM - 2 AM",
+      "body": "Important Notice:\n\nScheduled system maintenance will occur tonight from 10:00 PM to 2:00 AM. During this time, the following services will be unavailable:\n- Internal file sharing\n- Project management portal\n- Email server (brief interruptions)\n\nPlease save your work and log out before 10:00 PM.\n\nWe apologize for any inconvenience.\n\nIT Support Team",
+      "date": "2024-11-20T15:00:00",
+      "message_id": "msg_007",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 20,
+      "sender": "ceo@company.com",
+      "recipient": "all@company.com",
+      "subject": "Company All-Hands Meeting Next Monday",
+      "body": "Team,\n\nI'm excited to announce our quarterly all-hands meeting next Monday at 3:00 PM in the main conference room.\n\nAgenda:\n- Q3 results and Q4 outlook\n- New product announcements\n- Team recognition awards\n- Q&A session\n\nPlease make every effort to attend. The meeting will also be streamed for remote team members.\n\nLet's make Q4 our best quarter yet!\n\nBest,\nJane Smith\nCEO",
+      "date": "2024-11-20T13:15:00",
+      "message_id": "msg_008",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 21,
+      "sender": "noreply@socialmedia.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "You have 5 new connection requests",
+      "body": "Hi there,\n\nYou have 5 new connection requests waiting:\n- John Smith (Tech Industry)\n- Maria Garcia (Marketing)\n- David Chen (Developer)\n- Sarah Wilson (Design)\n- Mike Brown (Product)\n\nLogin to view and manage your connections: https://socialmedia.com/connections\n\nThis is an automated message. Please do not reply.",
+      "date": "2024-11-20T11:30:00",
+      "message_id": "msg_009",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 22,
+      "sender": "client.service@bigclient.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "URGENT: Production Issue Detected",
+      "body": "CRITICAL ISSUE:\n\nOur monitoring system has detected a production issue affecting user authentication. The error rate has spiked to 15% in the last hour.\n\nRequired actions:\n1. Investigate the authentication service immediately\n2. Deploy hotfix if needed\n3. Provide status update within 2 hours\n4. Prepare incident report\n\nThis is priority 1. Please acknowledge receipt and provide ETA for resolution.\n\nClient Services Team",
+      "date": "2024-11-20T09:45:00",
+      "message_id": "msg_010",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 23,
+      "sender": "training@devskills.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "New Course: Advanced Python Programming",
+      "body": "Hello Developer,\n\nWe're excited to announce our new Advanced Python Programming course!\n\nWhat you'll learn:\n- Advanced Python patterns\n- Performance optimization\n- Async programming\n- Testing strategies\n\nCourse starts: December 1st\nDuration: 6 weeks\nPrice: $299 (early bird discount available)\n\nEnroll now: https://devskills.com/python-advanced\n\nBest regards,\nDevSkills Team",
+      "date": "2024-11-19T17:20:00",
+      "message_id": "msg_011",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    },
+    {
+      "id": 24,
+      "sender": "colleague@company.com",
+      "recipient": "you@yourcompany.com",
+      "subject": "Quick question about the API documentation",
+      "body": "Hey,\n\nI'm working on integrating with the new API and had a quick question about the authentication section. Could you clarify the token refresh process?\n\nSpecifically:\n- What's the exact refresh endpoint?\n- Should we use the same headers?\n- Any specific error handling needed?\n\nThanks for your help!\n\nCheers,\nAlex",
+      "date": "2024-11-19T15:40:00",
+      "message_id": "msg_012",
+      "category": "Uncategorized",
+      "is_processed": false,
+      "action_items": [],
+      "summary": []
+    }
+  ],
+  "drafts": [
+    {
+      "id": 1,
+      "subject": "Re: Follow up",
+      "body": "Hello,\n\nThanks for your message. I'll address the points and revert shortly.\n\nRegards,\nYour Assistant (Professional)",
+      "recipient": "project.manager@company.com",
+      "tone": "professional",
+      "original_email_id": 1,
+      "generated_by_ai": true,
+      "category": "Uncategorized",
+      "action_items": null
+    },
+    {
+      "id": 2,
+      "subject": "Re: Follow up",
+      "body": "Hello,\n\nThanks for your message. I'll address the points and revert shortly.\n\nRegards,\nYour Assistant (Professional)",
+      "recipient": "project.manager@company.com",
+      "tone": "professional",
+      "original_email_id": 1,
+      "generated_by_ai": true,
+      "category": "Uncategorized",
+      "action_items": null
+    }
+  ],
+  "prompts": [
+    {
+      "id": 1,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 2,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 3,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 4,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 5,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 6,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 7,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 8,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 9,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 10,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 11,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 12,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 13,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 14,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 15,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 16,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 17,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 18,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 19,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 20,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 21,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 22,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 23,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 24,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 25,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    },
+    {
+      "id": 26,
+      "name": "Custom Categorization",
+      "prompt_type": "categorization",
+      "prompt_text": "hlo",
+      "description": "Custom prompt for experimentation",
+      "is_custom": true,
+      "is_active": true
+    }
+  ],
+  "logs": [],
+  "next_ids": {
+    "email": 25,
+    "draft": 3,
+    "prompt": 27,
+    "log": 1
+  }
+}
